@@ -1,0 +1,93 @@
+{
+  "code": "DAEGU-ARTS",
+  "title": "SMASH DAEGU ARTS",
+  "school": "대구예술대",
+  "fullName": "대구예술대학교",
+  "campusName": "대구예술대학교",
+  "tagline": "대구예술대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대구예술대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대구예술대학교 3D 화면과 SMASH DAEGU ARTS 제목",
+  "url": "https://hong-iron.github.io/SMASH-DAEGU-ARTS/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "circle",
+    "center": "36.03222,128.50962,260"
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.0316626,
+        128.5105483
+      ],
+      "n": "행정지원실",
+      "why": "같은 건물 겹침 — 행정지원실 대장 윤곽은 하늘색 지붕 건물(10번) 바로 옆 빈 비탈에 밀려 그려진 것이고, 실제로 서 있는 건물은 크기와 방향이 같은 10번 하나뿐이라 겹친 것으로 보고 뺀다."
+    },
+    {
+      "at": [
+        36.0321783,
+        128.50813
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 제2예술관 북서쪽 윤곽 안은 맨흙과 나무 한 그루뿐이고 건축물대장 기록도 없어 서 있는 건물이 없다."
+    },
+    {
+      "at": [
+        36.0319086,
+        128.5108789
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 제5예술관 동쪽 끝 옆 윤곽 안은 풀과 덤불이 난 비탈뿐이고 건축물대장 기록도 없어 서 있는 건물이 없다."
+    },
+    {
+      "at": [
+        36.0323284,
+        128.508684
+      ],
+      "n": "정수장",
+      "why": "항공사진에 없음 — 정수장은 땅 위 0층, 지하 1층뿐인 시설이라 땅 위로 보이는 건물이 없고 사진에도 나무 그늘만 보인다."
+    }
+  ],
+  "look": {
+    "예술관1": {
+      "style": "brick",
+      "wall": "#9a8489",
+      "glass": "#3d4250",
+      "frame": "#cfc2a3"
+    },
+    "예술관4": {
+      "style": "stone",
+      "wall": "#a08c94",
+      "glass": "#485052",
+      "frame": "#2b658a"
+    },
+    "기숙사": {
+      "style": "brick",
+      "wall": "#916b63",
+      "glass": "#3c4a4c",
+      "frame": "#b09382"
+    },
+    "예술관3": {
+      "style": "brick",
+      "wall": "#95684f",
+      "glass": "#4a5a55",
+      "frame": "#e6e4dc",
+      "roof": "#3f7f6a",
+      "hip": true
+    },
+    "제5예술관": {
+      "style": "concrete",
+      "wall": "#b4b7b8",
+      "glass": "#1f2226",
+      "frame": "#313033"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
